@@ -6,8 +6,8 @@ I like web/data technologies, earth sciences and bikes.
 
 I’m currently learning full stack engineering, right now focusing on React/Redux.
 
-But I also have experience in:
-- Data Analysis
+I also have experience in:
+- Data Analysis with SQL
 - Python
 - Excel/PowerQuery
 
