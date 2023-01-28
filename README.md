@@ -12,4 +12,4 @@ I also have experience in:
 - Python
 - Excel/PowerQuery/PowerBI
 
-Check out my [GitHub website](<https://marcondercin.github.io>)!
+Check out my [website](<https://marcondercin.com>)!
